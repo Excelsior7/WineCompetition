@@ -1,5 +1,6 @@
 ### Playground Series - Season 3, Episode 5 : Tabular Ordinal Regression with a Wine Quality Dataset
 
+
 Kaggle is a well-known site in the Data Science community. After a while of looking at the different features of this site from afar, I decided to get involved in a competition. Since I'm coming from a several weeks excursion from the NLP world I've been working a lot with unstructured textual data and Deep Learning architectures. 
 Because of this, I wanted the competition to be focused around a tool that I think remains central to the data scientist: tabular data. For this, Kaggle and their **Kaggle's Playground Series** competitions were just perfect: well crafted competitions that last around two weeks with competitors who are often very resourceful.
 
